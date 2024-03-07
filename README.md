@@ -1,5 +1,6 @@
 # Group1
-# Ben K
+Peggy Lian
+Oliver Nicholson
 # Peggy 
 # Max F
-# Hanbin
+# Oliver
